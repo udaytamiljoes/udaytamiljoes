@@ -6,7 +6,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=18F7FF&center=true&vCenter=true&width=440&lines=React+Developer;Frontend+Engineer+%F0%9F%92%BB;1.6%2B+Years+Experience;Open+Source+Enthusiast;Performance+Driven+Coder" alt="Typing SVG" />
   </a>
 </p>
+---
 
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite,webpack,html,css,tailwind,materialui,git,github,vscode" />
+  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Formik-02569B?style=flat&logo=formik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+</p>
 ---
 
 ### 🧑‍💻 About Me
@@ -28,18 +39,7 @@ Hi, I'm **Arunpandi M** — a passionate React Developer from **Tamil Nadu, Indi
 
 📬 Email: **arunmohan8870@gmail.com**
 
----
 
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite,webpack,html,css,tailwind,materialui,git,github,vscode" />
-  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Formik-02569B?style=flat&logo=formik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-</p>
 
 
 ---
