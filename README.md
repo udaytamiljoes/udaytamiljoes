@@ -1,66 +1,73 @@
-<!-- Header Banner -->
+<!-- Banner GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArunpandiM/Assets/main/code-dev-loop.gif" width="100%" height="250" />
+  <img src="https://github.com/ArunpandiM/Assets/blob/main/code-terminal.gif?raw=true" width="100%" height="250" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Arunpandi M</h1>
+
 <p align="center">
   <a href="https://github.com/udaytamiljoes">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=18F7FF&center=true&vCenter=true&width=440&lines=React+Developer;Frontend+Engineer+%F0%9F%92%BB;1.6%2B+Years+Experience;Open+Source+Enthusiast;Pixel+Perfect+Coder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=18F7FF&center=true&vCenter=true&width=440&lines=React+Developer;Frontend+Engineer+%F0%9F%92%BB;1.6%2B+Years+Experience;Open+Source+Enthusiast;Performance+Driven+Coder" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+### 🧑‍💻 About Me
 
-🎯 Passionate Frontend Developer with **1.6+ years** of experience  
-🎯 Specializing in **React.js**, **Redux Toolkit**, **MUI**, and **Tailwind CSS**  
-🎯 Love building **beautiful UIs**, responsive dashboards, and fast apps  
-🎯 Based in **Kodaikanal, Tamil Nadu**  
-🎯 Currently exploring **Next.js** & **React Native**
+- 💻 Frontend Developer from **Tamil Nadu, India**
+- 👨‍💼 1.6+ years building **responsive & scalable apps**
+- 🔥 Working with **React.js, Redux Toolkit, Tailwind, MUI**
+- 📬 Email: **arunpandi.webdev@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,materialui,vite,webpack,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vite,webpack,html,css,tailwind,materialui,git,github,vscode" />
+  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Formik-02569B?style=flat&logo=formik&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 Highlight Projects
-
-| 🚀 Project Name | Description | Tech |
-|----------------|-------------|------|
-| **LMS Platform** | Learning system with Admin, Learner, Tutor panels | React, Redux, MUI |
-| **Frec Fast** | Ride booking + dashboard UI | React, RTK Query, Tailwind |
-| **Geniuz Health** | Health dashboard + consultation | React, MUI, REST API |
-
----
-
-## 📈 GitHub Activity
+### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=udaytamiljoes&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=udaytamiljoes&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaytamiljoes&theme=github-compact&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udaytamiljoes&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaytamiljoes&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udaytamiljoes&theme=onedark&row=1&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaytamiljoes&layout=compact&theme=tokyonight" width="60%" />
 </p>
 
 ---
 
-## 🔗 Let's Connect
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaytamiljoes&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udaytamiljoes&theme=onestar&margin-w=10&row=1" />
+</p>
+
+---
+
+### 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:arunpandi.webdev@gmail.com">
