@@ -1,6 +1,7 @@
 <!-- Header Banner -->
-<img src="https://raw.githubusercontent.com/ArunpandiM/Assets/main/terminal-coding.gif" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArunpandiM/Assets/main/code-dev-loop.gif" width="100%" height="250" />
+</p>
 <h1 align="center">Hi 👋, I'm Arunpandi M</h1>
 <p align="center">
   <a href="https://github.com/udaytamiljoes">
