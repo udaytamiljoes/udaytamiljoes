@@ -1,8 +1,4 @@
 <!-- Banner GIF -->
-<p align="center">
-  <img src="https://github.com/ArunpandiM/Assets/blob/main/code-terminal.gif?raw=true" width="100%" height="250" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Arunpandi M</h1>
 
 <p align="center">
@@ -15,10 +11,22 @@
 
 ### 🧑‍💻 About Me
 
-- 💻 Frontend Developer from **Tamil Nadu, India**
-- 👨‍💼 1.6+ years building **responsive & scalable apps**
-- 🔥 Working with **React.js, Redux Toolkit, Tailwind, MUI**
-- 📬 Email: **arunpandi.webdev@gmail.com**
+Hi, I'm **Arunpandi M** — a passionate React Developer from **Tamil Nadu, India** 🇮🇳.
+
+🌟 I have **1.6 years of professional experience** building responsive and scalable web applications using modern frontend technologies.
+
+🚀 **What I Do**:
+- Build dynamic, performant UIs
+- Integrate APIs and real-time features
+- Debug and optimize front-end performance
+- Focus on responsive design & cross-browser compatibility
+
+💼 **Projects I've Worked On**:
+- 📚 Learning Management Systems  
+- 🚗 Ride-booking platforms  
+- 🎥 Video conferencing & webinar apps  
+
+📬 Email: **arunmohan8870@gmail.com**
 
 ---
 
@@ -30,7 +38,9 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/Formik-02569B?style=flat&logo=formik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
 </p>
+
 
 ---
 
@@ -59,27 +69,23 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udaytamiljoes&theme=onestar&margin-w=10&row=1" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:arunpandi.webdev@gmail.com">
+  <a href="mailto:arunmohan8870@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/arunpandi-m/">
+  <a href="https://www.linkedin.com/in/arunpandii/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/udaytamiljoes">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/w_h_i_t_e_bee_200_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
