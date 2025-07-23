@@ -1,70 +1,97 @@
-<!-- Header Section -->
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Arunpandi M</h1>
-<h3 align="center">💻 Frontend Developer | React.js Enthusiast | Tech Explorer from Tamil Nadu, India</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Frontend+Engineer;Tech+Lover;Lifelong+Learner&center=true&width=380&height=45">
-</p>
-
----
-
-<!-- Profile Summary -->
-- 🔭 I’m currently working on **React dashboards, component libraries, and admin panels**
-- 🌱 I’m learning **Next.js** and **React Native**
-- 💬 Ask me about **React.js, Redux, MUI, Tailwind CSS, RTK Query**
-- 📫 How to reach me: **arunpandi.webdev@gmail.com**
-- ⚡ Fun fact: I love building UIs with pixel perfection and smooth animations 🎨
-
----
-
-<!-- Tech Stack -->
-### 🛠️ Languages & Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reduxtoolkit,html,css,tailwind,materialui,git,github,vite,figma,webpack,vscode" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-### 📈 GitHub Stats & Contributions:
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=udaytamiljoes&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=udaytamiljoes&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaytamiljoes&theme=react-dark" />
-</p>
-
----
-
-<!-- Top Languages -->
-### 🧠 Top Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaytamiljoes&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
----
-
-<!-- Contact & Social -->
-### 📫 Connect with Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arunpandi-m/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://github.com/udaytamiljoes">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=18F7FF&center=true&vCenter=true&width=440&lines=React+Developer;Frontend+Engineer+%F0%9F%92%BB;1.6%2B+Years+Experience;Open+Source+Enthusiast;Pixel+Perfect+Coder" alt="Typing SVG" />
   </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+🎯 Passionate Frontend Developer with **1.6+ years** of experience  
+🎯 Specializing in **React.js**, **Redux Toolkit**, **MUI**, and **Tailwind CSS**  
+🎯 Love building **beautiful UIs**, responsive dashboards, and fast apps  
+🎯 Based in **Kodaikanal, Tamil Nadu**  
+🎯 Currently exploring **Next.js** & **React Native**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+
+  <!-- Frameworks / Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,redux" />
+  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Formik-02569B?style=flat&logo=formik&logoColor=white" />
+
+  <!-- Styling -->
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vite,webpack,git,github,vscode" />
+</p>
+
+
+---
+
+## 🌟 Highlight Projects
+
+| 🚀 Project Name | Description | Tech |
+|----------------|-------------|------|
+| **LMS Platform** | Learning system with Admin, Learner, Tutor panels | React, Redux, MUI |
+| **Frec Fast** | Ride booking + dashboard UI | React, RTK Query, Tailwind |
+| **Geniuz Health** | Health dashboard + consultation | React, MUI, REST API |
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=udaytamiljoes&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=udaytamiljoes&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaytamiljoes&theme=github-compact&area=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udaytamiljoes&theme=onedark&row=1&margin-w=15" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
   <a href="mailto:arunpandi.webdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arunpandi-m/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/udaytamiljoes">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udaytamiljoes&label=Profile+Views&color=0e75b6&style=flat" alt="udaytamiljoes" />
+  <img src="https://komarev.com/ghpvc/?username=udaytamiljoes&label=Profile+Views&color=blue&style=flat" />
 </p>
