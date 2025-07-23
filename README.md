@@ -1,48 +1,70 @@
-# 👋 Hi there, I'm Arunpandi M
+<!-- Header Section -->
+<h1 align="center">Hi 👋, I'm Arunpandi M</h1>
+<h3 align="center">💻 Frontend Developer | React.js Enthusiast | Tech Explorer from Tamil Nadu, India</h3>
 
-🎯 **Frontend Developer | React.js Specialist | Problem Solver**
-
-I'm a React Developer based in Tamil Nadu 🇮🇳 with 1.6+ years of hands-on experience building scalable, responsive, and performant web applications.
-
----
-
-## 🧠 Tech Stack & Tools
-
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frontend:** React.js, Redux Toolkit, RTK Query, React Router
-- **UI Libraries:** Material-UI (MUI), Tailwind CSS
-- **Form Handling:** React Hook Form, Formik, Yup
-- **API Integration:** REST APIs, Axios
-- **Version Control:** Git & GitHub
-- **Others:** Responsive Design, Performance Optimization, Vite, ESLint
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=React+Developer;Frontend+Engineer;Tech+Lover;Lifelong+Learner&center=true&width=380&height=45">
+</p>
 
 ---
 
-## 🚀 Projects
-
-### 🎓 Learning Management System (LMS)
-- Role-based dashboards for Admin, Learner, and Tutor
-- Features: Course creation, quizzes, live classes, analytics
-
-### 🚖 Frec Fast – Ride Booking Platform
-- Real-time booking and admin dashboards
-- Driver location tracking and trip status management
-
-### 🩺 Geniuz – Health & Wellness Platform
-- Health dashboard with consultation, medication tracking, and wellness suggestions
+<!-- Profile Summary -->
+- 🔭 I’m currently working on **React dashboards, component libraries, and admin panels**
+- 🌱 I’m learning **Next.js** and **React Native**
+- 💬 Ask me about **React.js, Redux, MUI, Tailwind CSS, RTK Query**
+- 📫 How to reach me: **arunpandi.webdev@gmail.com**
+- ⚡ Fun fact: I love building UIs with pixel perfection and smooth animations 🎨
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaytamiljoes&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaytamiljoes&layout=compact&theme=react)
+<!-- Tech Stack -->
+### 🛠️ Languages & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reduxtoolkit,html,css,tailwind,materialui,git,github,vite,figma,webpack,vscode" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+<!-- GitHub Stats -->
+### 📈 GitHub Stats & Contributions:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/arunpandi-m/)
-- 📧 Email: arunpandi.webdev@gmail.com
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=udaytamiljoes&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=udaytamiljoes&theme=tokyonight" />
+</p>
 
-Thanks for stopping by! 👨‍💻 Feel free to check out my work and drop a message!
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaytamiljoes&theme=react-dark" />
+</p>
+
+---
+
+<!-- Top Languages -->
+### 🧠 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaytamiljoes&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+---
+
+<!-- Contact & Social -->
+### 📫 Connect with Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arunpandi-m/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:arunpandi.webdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/udaytamiljoes">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=udaytamiljoes&label=Profile+Views&color=0e75b6&style=flat" alt="udaytamiljoes" />
+</p>
