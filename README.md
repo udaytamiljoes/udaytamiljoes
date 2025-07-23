@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=18F7FF&center=true&vCenter=true&width=440&lines=React+Developer;Frontend+Engineer+%F0%9F%92%BB;1.6%2B+Years+Experience;Open+Source+Enthusiast;Performance+Driven+Coder" alt="Typing SVG" />
   </a>
 </p>
----
 
 ### 🚀 Tech Stack
 
@@ -18,7 +17,6 @@
   <img src="https://img.shields.io/badge/Formik-02569B?style=flat&logo=formik&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
 </p>
----
 
 ### 🧑‍💻 About Me
 
